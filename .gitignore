@@ -2,3 +2,4 @@ migrations/
 venv/
 .idea/
 __pycache/
+db.sqlite3
