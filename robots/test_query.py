@@ -2,7 +2,7 @@ import requests
 import json
 
 url = 'http://127.0.0.1:8000/robots/api/create_robot/'
-data = {"model":"13","version":"XS","created":"2024-12-11 00:00:00"}
+data = {"model":"14","version":"8b","created":"2024-12-11 00:00:00"}
 
 headers = {'Content-Type': 'application/json'}
 
